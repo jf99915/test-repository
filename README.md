@@ -1,3 +1,3 @@
-# test-repository
+# Following along in git lesson
 
-this is a new edit from my local computer
+making changes from another location to test pulling from github
