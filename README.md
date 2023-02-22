@@ -2,4 +2,4 @@
 
 making changes from another location to test pulling from github
 
-Imma cause a conflict
+conflict resolved
